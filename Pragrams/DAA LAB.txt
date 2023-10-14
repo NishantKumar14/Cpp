@@ -1,0 +1,4 @@
+Q1. Cycle Detection in a disjoint graph in a undirected graph.
+Q2. Bipartile
+Q3. Spainning -> Krushkal Algo
+Q4. Prims
